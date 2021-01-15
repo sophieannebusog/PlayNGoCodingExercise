@@ -1,0 +1,12 @@
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/bin/Debug/netcoreapp3.1/PlayNGoVer2.deps.json
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/bin/Debug/netcoreapp3.1/PlayNGoVer2.runtimeconfig.json
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/bin/Debug/netcoreapp3.1/PlayNGoVer2.runtimeconfig.dev.json
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/bin/Debug/netcoreapp3.1/PlayNGoVer2.dll
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/bin/Debug/netcoreapp3.1/PlayNGoVer2.pdb
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/obj/Debug/netcoreapp3.1/PlayNGoVer2.AssemblyInfoInputs.cache
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/obj/Debug/netcoreapp3.1/PlayNGoVer2.AssemblyInfo.cs
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/obj/Debug/netcoreapp3.1/PlayNGoVer2.csproj.CoreCompileInputs.cache
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/obj/Debug/netcoreapp3.1/PlayNGoVer2.dll
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/obj/Debug/netcoreapp3.1/PlayNGoVer2.pdb
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/obj/Debug/netcoreapp3.1/PlayNGoVer2.genruntimeconfig.cache
+/Users/sophieanne/Projects/PlayNGoVer2/PlayNGoVer2/obj/Debug/netcoreapp3.1/PlayNGoVer2.csprojAssemblyReference.cache

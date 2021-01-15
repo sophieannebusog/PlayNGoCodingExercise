@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{C227167A-1800-4DDD-99E1-63765988D1F9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayNGoVer2/Card.cs">
+    <Files>
+      <File FileName="PlayNGoVer2/HandEvaluator.cs" Line="232" Column="19" IsPinned="True" />
+      <File FileName="PlayNGoVer2/Program.cs" />
+      <File FileName="PlayNGoVer2Tests/PokerTests.cs" />
+      <File FileName="PlayNGoVer2/PlayPoker.cs" />
+      <File FileName="PlayNGoVer2/Card.cs" Line="8" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PlayNGoVer2" expanded="True">
+            <Node name="PlayNGoVer2" expanded="True">
+              <Node name="Card.cs" selected="True" />
+            </Node>
+            <Node name="PlayNGoVer2Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PlayNGoVer2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PlayNGoVer2Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PlayNGoVer2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
